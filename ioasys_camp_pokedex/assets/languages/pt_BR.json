@@ -1,0 +1,12 @@
+{
+    "title": "ioasys pokédex",
+    "search": "Buscar",
+    "goback": "Voltar",
+    "favoriteTitle": "  Meus Favoritos",
+    "pokemonNotFound": "Este pokemon não está aqui ;(",
+    "baseStats": "Estatísticas básicas",
+    "weight": "Peso",
+    "height": "Altura",
+    "moves": "Ataques",
+    "tryAgain": "Tente Novamente"
+}

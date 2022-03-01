@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289112480231",
+    "project_id": "ioasys-imc",
+    "storage_bucket": "ioasys-imc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289112480231:android:c2ad54b2cfb59cbc5c8542",
+        "android_client_info": {
+          "package_name": "com.example.ioasys_camp_imc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289112480231-940b48diqfdho1eevv9603pbll2gl7qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ioasys_camp_imc",
+            "certificate_hash": "a5d1fe76c45719e2372cb763452381c726bf94a4"
+          }
+        },
+        {
+          "client_id": "289112480231-e5mkenppaop0o3s9oft17vhdpq4m7r4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVe1DT3CF3mJwKOr8NweqGvhXGQgf6LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289112480231-e5mkenppaop0o3s9oft17vhdpq4m7r4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
