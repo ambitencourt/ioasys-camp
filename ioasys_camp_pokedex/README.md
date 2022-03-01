@@ -41,7 +41,7 @@ Seguem telas:
 <img src="https://github.com/ambitencourt/ioasys-camp/blob/master/ioasys_camp_pokedex/assets/images/Fluxograma.PNG" />
  </div>
 <div align="center">
-<img src="https://github.com/ambitencourt/ioasys-camp/blob/master/ioasys_camp_pokedex/assets/images/Pokedex.gif" align="center" height="500" width="300"/>
+<img src="https://github.com/ambitencourt/ioasys-camp/blob/master/ioasys_camp_pokedex/assets/images/Pokedex.gif" align="center" />
  </div> 
 
 ## Foram Utilizados os seguintes pacotes
