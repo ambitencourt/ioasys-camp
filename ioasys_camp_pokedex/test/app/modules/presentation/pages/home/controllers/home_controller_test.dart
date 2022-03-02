@@ -10,6 +10,7 @@ main() {
           link: 'https://pokeapi.co/api/v2/pokemon?limit=15');
       print('$list \n');
       print(list.pokemons);
+      expect(list.pokemons[3].name, 'charmander');
     },
   );
 }
