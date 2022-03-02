@@ -9,6 +9,7 @@
 3. Gerenciamento de rotas e injeção de depência com Modular;
 4. SplashScreen com animação( Lottie);
 5. Custom Widgets;
+6. Testes Unitários;
 
 ## 🔗Links
 
